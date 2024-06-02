@@ -1,0 +1,51 @@
+.card-1 {
+    justify-content: center;
+    display: flex;
+}
+
+form {
+    border: 1px solid rgb(187, 181, 181);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.text {
+    width: 500px;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: cursive;
+    padding-bottom: 15px;
+}
+
+.card-2 {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.main-box {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.text-box {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.toggle {
+    width: 100px;
+}
+
+.button-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
